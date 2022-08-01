@@ -4,4 +4,4 @@ I wanted to create an image for the banner of my LinkedIn profile that illustrat
 
 The values for the graph were somewhat randomly selected (in the future I will look for an opportunity to use real data). I used one of the [incredible national parks color palettes](https://github.com/kevinsblake/NatParksPalettes) to create the depth in the mountains and then added a sun to finish things off:
 
-[banner_pic](banner_pic.png)
+![banner_pic](banner_pic.png)
